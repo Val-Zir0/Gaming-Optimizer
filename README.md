@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/581cb552-b170-4399-9ebb-16ae954147d1" width="120" alt="Gaming Optimizer Logo"/>
+  <img src="https://github.com/user-attachments/assets/529336da-d7ad-4d9d-9aad-79b976081895" width="120" alt="Gaming Optimizer Logo"/>
 </p>
 
 <h1 align="center">🎮 Gaming Optimizer</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Glitch-EG/Gaming-Optimizer/releases">
+  <a href="https://github.com/Val-Zir0/Gaming-Optimizer/releases">
     <img src="https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github" alt="Download from Releases"/>
   </a>
 </p>
@@ -36,7 +36,7 @@
 
 ## ⏬ Download
 
-> Get the latest version now from the [**Releases Page**](https://github.com/Glitch-EG/Gaming-Optimizer/releases).
+> Get the latest version now from the [**Releases Page**](https://github.com/Val-Zir0/Gaming-Optimizer/releases).
 
 ---
 
